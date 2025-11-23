@@ -1,5 +1,6 @@
 # Official-HTML-Related-Projects-Birthday-Email
-This repository is only available for my personal HTML related content/assignments
+This repository is only available for my personal HTML related content/assignments.
+
 To see the layout of the birthday email:
 
 1. Launch any contemporary web browser (Chrome, Firefox, Safari, Edge) and open `index.html`.
