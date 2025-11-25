@@ -19,3 +19,11 @@ There is little support for videos. `<video>` tags are completely removed by Gma
 
 In the browser, this arrangement mimics an email-style message.
 Due to media handling and CSS limitations, actual email clients may display differently.
+
+
+https://github.com/user-attachments/assets/0a85b15d-f9e4-4d3b-b87e-177b9fa725ec
+
+
+
+https://github.com/user-attachments/assets/021ea5cf-2ec1-48f9-89e1-f46991ba68ab
+
