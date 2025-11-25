@@ -4,7 +4,7 @@ This repository is only available for my personal HTML related content/assignmen
 To see the layout of the birthday email:
 
 1. Launch any contemporary web browser (Chrome, Firefox, Safari, Edge) and open `index.html`.
-2. Verify that the `images/` folder (fallbacks) and the `assets/` folder (GIFs and videos) are located in the same directory.
+2. Verify that the `images/` folder (fallbacks) and the `root/` folder (GIFs and videos) are located in the same directory.
 3. Test on both desktop and mobile screen sizes for optimal outcomes.
 
 ## Email Clients' Limited Media Support
